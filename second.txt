@@ -1,4 +1,7 @@
 This is the second file.
-It is created online.
+It is created online and locally.
 Creator: Julian
 All Rights Reserved
+
+All Rights Reserved.
+
