@@ -1,2 +1,2 @@
 # gitdemo
-Demo of git commands for Wednesday lab
+Demo of git commands for Cmput 301 Wednesday lab
